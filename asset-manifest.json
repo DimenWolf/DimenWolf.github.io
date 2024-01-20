@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ec0bc0e.css",
+    "main.js": "/static/js/main.efdea02d.js",
+    "static/js/787.0e070a73.chunk.js": "/static/js/787.0e070a73.chunk.js",
+    "static/media/win.png": "/static/media/win.3170fc45f36a8ea7e1ed.png",
+    "static/media/gorila_biome.png": "/static/media/gorila_biome.5cc9dabfe7bace5e74b1.png",
+    "static/media/mountain_valley.png": "/static/media/mountain_valley.039191eb9fa66bbe34ab.png",
+    "static/media/mountain_valley_creature_1.png": "/static/media/mountain_valley_creature_1.d1bc41470d52fa1cbdfa.png",
+    "static/media/gorila.png": "/static/media/gorila.0b8c0dd2315f68c18c24.png",
+    "static/media/hell_biom.png": "/static/media/hell_biom.7f5574bd9eb7aa7fe2ff.png",
+    "static/media/cementary_1.png": "/static/media/cementary_1.3e7f3c7728d0dfa3e4ba.png",
+    "static/media/village_biom.png": "/static/media/village_biom.d2b4cf90f5dc39c3138e.png",
+    "static/media/mountain_peak_creature.png": "/static/media/mountain_peak_creature.d69bff5146d70d97b7d5.png",
+    "static/media/mountain_peak_1.png": "/static/media/mountain_peak_1.ec20e91024012d6e94ea.png",
+    "static/media/ice_biom.png": "/static/media/ice_biom.18eb0168acc1a20af62d.png",
+    "static/media/dark_forest_creature.png": "/static/media/dark_forest_creature.9133133b4f4e9b540f41.png",
+    "static/media/dark_forest_1.png": "/static/media/dark_forest_1.3b17d5b85563ce021bf2.png",
+    "static/media/hell_creature_1.png": "/static/media/hell_creature_1.fbe0186764bb5c15856c.png",
+    "static/media/cementary_creature.png": "/static/media/cementary_creature.49bf3ea09bf3b759a342.png",
+    "static/media/ice_creature_1.png": "/static/media/ice_creature_1.3053ac43ada60e42757b.png",
+    "static/media/archipelagos_creature.png": "/static/media/archipelagos_creature.2e859e5c30d209e26176.png",
+    "static/media/dessert.png": "/static/media/dessert.fc9957e3d25fecc614a5.png",
+    "static/media/archipelagos_biom.png": "/static/media/archipelagos_biom.ccd2ac9f6a8e4d72dced.png",
+    "static/media/village_odin_2.png": "/static/media/village_odin_2.753380b96ebfb8c95a7e.png",
+    "static/media/dessert_creature.png": "/static/media/dessert_creature.f5afbc120e8d2697dd16.png",
+    "static/media/pixel_art.png": "/static/media/pixel_art.bc0926a0255dcb0ae9fa.png",
+    "static/media/bad.mp3": "/static/media/bad.ee37d6ea31548104295b.mp3",
+    "static/media/gut.mp3": "/static/media/gut.3500ed0940d1a3c79bc9.mp3",
+    "index.html": "/index.html",
+    "main.3ec0bc0e.css.map": "/static/css/main.3ec0bc0e.css.map",
+    "main.efdea02d.js.map": "/static/js/main.efdea02d.js.map",
+    "787.0e070a73.chunk.js.map": "/static/js/787.0e070a73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec0bc0e.css",
+    "static/js/main.efdea02d.js"
+  ]
+}
